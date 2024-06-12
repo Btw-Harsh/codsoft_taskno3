@@ -9,4 +9,3 @@ Provides methods to add, remove, search, and display students.
 Includes methods to read from and write to a file (saveStudents and loadStudents).
 Implements a console-based interface to interact with the system.
 Running the Program
-Save the Files: Save the Student class in a file named Student.java and the StudentManagementSystem class in a file named StudentManagementSystem.java.
